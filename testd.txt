@@ -1,0 +1,15 @@
+app_name,app_category,app_recommendation_level,app_cn_name
+com.Appnori.AllInOneSports,运动健康,1,多合一运动\n
+com.odders.shapeit,运动,2,Shape\n
+com.CortopiaStudios.DTRH,冒险,1,爱丽丝梦游仙境\n
+com.ss.android.ugc.aweme,社交,3,微信\n
+com.commutergames.vspeedwayalpha,竞速,1,速度竞技\n
+tv.danmaku.bili,视频,4,哔哩哔哩视频\n
+com.Novelab.Spheres,冒险,2,星际穿越\n
+com.bytedance.picoworlds,建造,2,轻世界\n
+com.FrozenDreams.legendaryhuntervr,狩猎,1,VR猎人\n
+com.zmvr.mj,冒险,1,梦境世界\n
+com.youku.phone,视频,8,优酷\n
+com.StarRiverVR.LightBand,音乐,1,光之乐团\n
+com.Pico.SpaceFly,飞行,2,空间飞行\n
+com.DevsUnitedGames.RealVrFishingP,钓鱼,1,钓鱼\n
